@@ -1,35 +1,36 @@
-# Fediverse Friendly Moderation Covenant
+# 연합우주 친화적 중재 서약서
 
-### This instance commits to the following
+## 이 인스턴스는 아래에 적힌 내용을 따를 것을 약속합니다.
 
-#### 1. Administration and Moderation will be handled as neutral as possible
-Reports and widespread information on specific instances (often known as **bad actors**) will be verified
-and actions might be taken as necessary.
+### 1. 관리와 중재는 가능한 한 중립적으로 처리함
+신고 및 특정 인스턴스와 관련하여 잘 알려진 정보는 별도의 확인 과정을 거칠 것이며 (**악성 주체**를 말함),
+이에 따라 관리자 / 중재자는 필요한 경우 어떤 조처를 할 수 있습니다.
 
-#### 2. Actions taken will respond to the bare minimum to keep the network operating and not influence the ability of the instances users to connect to other people
-* If another instance spreads media content of questionable legality for the region the current instance
-  is operating from, these **files might be rejected** from being saved.
-* If another instance is sharing hateful messages that impact local users, there might be consideration
-  of **silencing** that specific instance from being visible in timelines. If users follow and/or wish to follow
-  users on the target instance, they are still free to do so.
-* If another instance is posting content illegal in the local instance operation region or actively posts content
-  attacking local users, a full **instance block** might be the last resort.
+### 2. 조처가 필요한 경우, 망의 운영과 사용자 간의 연결성을 보장하기 위해 가능한 한 최소한으로 이루어질 것임
+* 다른 인스턴스에서 전달하는 미디어가 현재 인스턴스가 있는 지역에서 법적으로 문제가 될 가능성이 있는 경우,
+  이러한 **파일들을 저장 거부**할 수 있습니다.
+* 다른 인스턴스가 로컬 사용자에게 악영향을 미칠 수 있는 혐오 게시글이나 메시지를 공유하는 경우,
+  해당 인스턴스가 타임라인에서 보이지 않도록 **침묵** 처리를 고려할 것입니다.
+  특정 사용자가 해당하는 인스턴스의 사용자를 팔로우하고자 하는 경우 여전히 자유롭게 팔로우할 수 있습니다.
+* 다른 인스턴스가 현재 인스턴스가 운영되는 지역에서 법적으로 문제가 될 가능성이 있는 콘텐츠를 계속 게시하거나, 지속해서 로컬 사용자를 공격하는 경우
+  **해당 인스턴스를 완전히 차단**하는 것이 최후의 조치가 될 것입니다.
   
-#### 3. Communication before Actions
-If any of the above behaviours start to surface from a given instance, the moderation of the local instance will attempt
-to inform the moderation/administration of that instance and resolve the problems coming from there. Only if no communication succeeded or no results that resolved issues came forth, actions will be taken towards that instance.
+### 3. 조처 이전에 대화 먼저
+특정 인스턴스에서 위와 같은 상황들이 발생하기 시작한 경우, 로컬 인스턴스의 중재자는 해당 인스턴스에서 발생하는 문제가 그곳에서 해결될 수 있게끔
+해당 인스턴스의 중재자/관리자에게 알리려고 시도할 것입니다. 오직 해당 인스턴스와의 대화가 성립되지 않았거나, 이슈가 해결되었다는 결과가 없는 경우에만
+해당 인스턴스에 대해 조처를 할 것입니다.
   
-#### 4. We won't recommend blocks
-Blocklists and block recommendations as an information source are taken for granted but lack accurate verification. Instead of using these options to publicly announce instances of questionable intent, we will inform local users of such, with the reminder of possible personal options for hiding content that might impact their experience of the network.
+### 4. 차단하기를 권장하지 않을 것임
+정보 출처로서 인스턴스 차단 목록이나 차단 추천 정보는 당연한 것 같습니다. 그러나 이런 추천 목록은 검증이라는 중요한 단계가 빠져있습니다. 우리는 이런 의도가 의심스러운 인스턴스 목록을 대대적으로 공유하지 않을 것이며, 대신 로컬 사용자에게 개개인의 망 연결성에 영향을 줄 수 있으나, 이런 인스턴스를 개인적으로 숨기거나 차단하는 방법이 있다는 점과 함께 안내할 것입니다.
 
-#### 5. No Guilt-by-Association/Federation
-If we have applied any action against Instance X, an Instance Y that federates with them will not get the same judgement applied to them. A natural connection, as by the networks design, does not imply shared interests and thus doesn't warrant the same moderation methods.
+### 5. 연결/연합에 의한 연대책임 없음
+인스턴스 X에 조처하는 경우, Y라는 인스턴스가 X와 여전히 연합하더라도 Y에 같은 조처를 하지는 않을 것입니다. 망이 설계된 바에 의한 자연스러운 연결은 각 인스턴스의 생각이나 관심사가 같음을 의미하지는 않으며, 따라서 서로 여전히 연합한다고 해서 중재 방법이 동일하다는 점을 함축하지는 않습니다.
 
 ----
 
-Regardless of all given points above, in special cases the instance moderation/administration might still opt to block
-an instance, while this is tried to be avoided at most.
+위에서 제시한 점을 가급적이면 따르려고 할 것이지만,
+특별한 경우 인스턴스 중재 / 관리 행위는 특정 인스턴스를 차단할 수 있습니다.
 
 ----
 
-_This Covenant is based on [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant) and is licensed under CC0_
+_이 서약서는 [연합우주 친화적 중재 서약서](https://github.com/sftblw/fediverse-friendly-moderation-covenant-ko)[(영어 원문)](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant) 에 기반하며, CC0 라이선스로 배포됩니다._
