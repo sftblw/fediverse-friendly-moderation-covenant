@@ -1,31 +1,31 @@
 # 연합우주 친화적 중재 서약서
 
-Fediverse-Friendly moderation covenant
+*Fediverse-Friendly Moderation Covenant*
 
-> 이 문서는 번역본입니다. 원문의 의도를 표현하기 위한 의역이 다수 포함되어 있으며, 원문과의 정합성을 보증하지 않습니다.
+다양한 방면에서 여러 형태로 존재하는 연합우주 (Fediverse)는 여전히 빠르게 성장하고 변화하는 중입니다. 오늘날의 연합우주 소프트웨어는 이미 존재하던 (Twitter 같은 곳의) 중재 없음에서 발전하여 모든 종류의 중재가 가능해졌습니다. 그러나 이런 강력한 중재 기능이 너무 엄격하게 적용된다면 연합우주 망의 서로 연결됨과 자연스러운 성장에 악영향을 미칠 것입니다.
 
-다양한 방면에서 여러 형태로 존재하는 연합우주 (Fediverse)는 여전히 빠르게 성장하고 변화하는 중입니다. 오늘날의 연합우주 소프트웨어는 기존재하던 (Twitter 같은 곳의) 중재의 부재에서 발전하여 가능한 모든 종류의 중재가 가능합니다. 그러나 이런 강력한 중재 기능이 너무 엄격하게 적용된다면 연합우주 망의 통합성과 자연스러운 성장에 악영향을 미칠 수 있습니다.
+이 서약서는 인스턴스의 규칙을 대신하려는 것이 아닙니다. 대신, 관리/중재 행위가 이 서약을 따른다고 약속할 수 있는 일종의 확장 개념으로, 그 목적은 연합우주 망의 서로서로 연결됨과 가능한 한 많은 사람이 상호작용할 수 있다는 점을 지키려 하기 위함입니다.
 
-This covenant isn't here to replace an instances set of rules. It's simply an extension that administration/moderation can pledge to follow so the networks integrity and the ability of users to interact with as many people as possible is kept intact.
+이 서약서는 [covenant.md](covenant.md) 에서 확인하실 수 있습니다. 그저 원본 마크다운을 복사해서 원하는 대로 수정한 뒤 인스턴스 규칙/이용약관에 추가하시면 됩니다.
 
-You can find the covenant in [covenant.md](covenant.md). Simply take the raw markdown or text format, adjust it to your needs  and copy it in your instances rules/terms.
+## 기여
 
-## Contributing
+이 서약서에 기여하실 점이 있나요? 어딘가 표현이 잘못되었거나 문법이 난장판이 났나요? 그렇다면 이 문서가 더 나아질 수 있게끔 새 이슈를 열거나 풀 리퀘스트로 기여해주시길 부탁드립니다. 감사합니다!
 
-Do you have any suggestions for the covenant? Is the wording wrong or the grammar messed up? Feel free to open an issue or make a Pull Request improving the document!
+## 어떤 인스턴스가 이 서약서를 사용하나요?
 
-## Who's using the Covenant?
+영어 인스턴스의 경우, [원본 저장소를 참조](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant)해주세요.
 
-* [desu.social](https://desu.social)
-* [floppy.tokyo](https://floppy.tokyo/)
-* [fedi.absturztau.be](https://fedi.absturztau.be)
-* [jorts.online](https://jorts.online)
-* [expired.mentality.rip](https://expired.mentality.rip)
-* [pleroma.bunni.eu](https://pleroma.bunni.eu)
+아직 한국어 인스턴스는 이 서약서를 사용하는 곳이 없습니다. (막 번역했거든요.)
 
-Also using the Covenant and want to be shown in this list? Feel free to open a PR to add your instance here or contact [pixel@desu.social](https://desu.social/@pixel)!
+* 여기에 인스턴스를 추가해 주세요
 
-## License
+이 목록에 인스턴스가 나오길 원하시나요? PR을 만드시거나, [sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)에게 연락해주세요. 영문 인스턴스 목록에 나타나길 원하신다면 [pixel@desu.social](https://desu.social/@pixel) 님에게 연락해주세요.
 
-The Fediverse-Friendly Moderation Covenant is licensed under [CC0](LICENSE)
+## 라이선스
 
+이 *연합우주 친화적 중재 서약*은 [CC0](LICENSE) 라이선스로 배포됩니다. 이는 번역본도 해당합니다.
+
+## 면책조항
+
+이 문서는 번역본이나 원문의 의도를 표현하기 위한 의역이 다수 포함되어 있으며, 원문과의 정합성을 보증하지 않습니다.
